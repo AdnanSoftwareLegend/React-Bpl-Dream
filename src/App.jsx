@@ -3,7 +3,7 @@ import "./App.css";
 import Navbar from "./Navbar/Navbar";
 import AvailablePlayer from "./AvailablePlayer/AvailablePlayer";
 import SelectedPlayer from "./SelectedPlayer/SelectedPlayer";
-  // import { ToastContainer } from 'react-toastify';
+import { ToastContainer } from 'react-toastify';
  const fetchData=async ()=>{
 
   const res = await fetch('../public/players.json');
