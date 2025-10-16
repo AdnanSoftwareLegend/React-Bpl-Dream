@@ -1,0 +1,123 @@
+
+  [
+    {
+      "name": "Viral Kohli",
+      "country": "India",
+      "role": "All-Rounder",
+      "rating": null,
+      "batting_style": "Left-Hand-Bat",
+      "price": "$1500000",
+      "image_url": "https://i.ibb.co.com/gFFCC4cH/kholi.webp",
+      "action": "Choose Player"
+    },
+    {
+      "name": "Rohit Sharma",
+      "country": "India",
+      "role": "Batsman",
+      "rating": null,
+      "batting_style": "Right-Hand-Bat",
+      "price": "$1300000",
+      "image_url": "https://i.ibb.co.com/PsJQ20vN/rohit.jpg",
+      "action": "Choose Player"
+    },
+    {
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "role": "Batsman",
+      "rating": null,
+      "batting_style": "Right-Hand-Bat",
+      "price": "$1200000",
+      "image_url": "https://i.ibb.co.com/VYDYXrFc/babar.jpg",
+      "action": "Choose Player"
+    },
+    {
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "role": "Batsman",
+      "rating": null,
+      "batting_style": "Right-Hand-Bat",
+      "price": "$1100000",
+      "image_url": "https://i.ibb.co.com/PsJQ20vN/rohit.jpg",
+      "action": "Choose Player"
+    },
+    {
+      "name": "Ben Stokes",
+      "country": "England",
+      "role": "All-Rounder",
+      "rating": null,
+      "batting_style": "Left-Hand-Bat",
+      "price": "$1250000",
+      "image_url": "https://i.ibb.co.com/PsJQ20vN/rohit.jpg",
+      "action": "Choose Player"
+    },
+    {
+      "name": "David Warner",
+      "country": "Australia",
+      "role": "Batsman",
+      "rating": null,
+      "batting_style": "Left-Hand-Bat",
+      "price": "$1150000",
+      "image_url": "https://i.ibb.co.com/PsJQ20vN/rohit.jpg",
+      "action": "Choose Player"
+    },
+    {
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "role": "All-Rounder",
+      "rating": null,
+      "batting_style": "Left-Hand-Bat",
+      "price": "$1000000",
+      "image_url": "https://i.ibb.co.com/PsJQ20vN/rohit.jpg",
+      "action": "Choose Player"
+    },
+    {
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "role": "Bowler",
+      "rating": null,
+      "batting_style": "Right-Hand-Bat",
+      "price": "$950000",
+      "image_url": "https://i.ibb.co.com/PsJQ20vN/rohit.jpg",
+      "action": "Choose Player"
+    },
+    {
+      "name": "Jos Buttler",
+      "country": "England",
+      "role": "Wicket-Keeper",
+      "rating": null,
+      "batting_style": "Right-Hand-Bat",
+      "price": "$1050000",
+      "image_url": "https://i.ibb.co.com/PsJQ20vN/rohit.jpg",
+      "action": "Choose Player"
+    },
+    {
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "role": "Bowler",
+      "rating": null,
+      "batting_style": "Right-Hand-Bat",
+      "price": "$900000",
+      "image_url": "https://i.ibb.co.com/PsJQ20vN/rohit.jpg",
+      "action": "Choose Player"
+    },
+    {
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "role": "Bowler",
+      "rating": null,
+      "batting_style": "Left-Hand-Bat",
+      "price": "$875000",
+      "image_url": "https://i.ibb.co.com/PsJQ20vN/rohit.jpg",
+      "action": "Choose Player"
+    },
+    {
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "role": "Bowler",
+      "rating": null,
+      "batting_style": "Left-Hand-Bat",
+      "price": "$950000",
+      "image_url": "https://i.ibb.co.com/PsJQ20vN/rohit.jpg",
+      "action": "Choose Player"
+    }
+  ]
